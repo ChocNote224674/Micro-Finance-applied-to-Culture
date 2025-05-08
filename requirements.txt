@@ -1,0 +1,7 @@
+streamlit==1.29.0
+pandas==2.1.0
+matplotlib==3.7.2
+plotly==5.17.0
+python-dotenv==1.0.0
+Pillow==10.0.0
+together==0.2.4
